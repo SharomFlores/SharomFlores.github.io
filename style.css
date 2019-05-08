@@ -3,7 +3,7 @@ body{
     animation-duration:3s;
     transition:all 1s;
     animation-name:BodyChange;
-    background-color:#c60101;
+    background-color:#bbf;
 }
 
 @keyframes BodyChange{
@@ -15,7 +15,7 @@ body{
 #bring{
     position:fixed;
     width:100%;
-    background-color:black;
+    background-color:#c60101;
     height:100%;
     margin:0;
     padding:0;
