@@ -9,7 +9,7 @@ function quotes(){
     var rand = quote[Math.floor(Math.random() * quote.length)];      document.getElementById("random").innerText=rand
 }
 
-var countDownDate = new Date("April 22, 2019 15:30:00").getTime();
+var countDownDate = new Date("Julio 19, 2019 15:30:00").getTime();
 
 function slow() {
   var now = new Date().getTime();
