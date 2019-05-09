@@ -6,6 +6,9 @@ body{
     background-color:White;
 }
 
+.cpntenedor{
+    
+}
 @keyframes BodyChange{
     50%{
         background-color:#c60101;
@@ -90,7 +93,7 @@ footer{
 }
 
 .fix{
-    background:linear-gradient(to left , #669 , #99c , #669);
+    background:linear-gradient();
 }
 
 ol{
